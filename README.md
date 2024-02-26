@@ -1,2 +1,4 @@
 # Business-Analytics-Toolbox
 Team Members: Aishwarya Jayant Rauthan, Khushi Khushi, Rajashree Ramaprabu, Saachi Dholakia, Shivakumar Vinod Pillai, Shubham Mishra
+
+The project analyzes Formula 1 racing performance to identify successful drivers, optimize race strategies, and understand constructors' historical trends. Objectives include identifying dominant drivers based on wins, podium finishes, and titles, providing strategic insights for talent recruitment and sponsorship decisions. The analysis also examines race strategies, influencing in-race decision-making and team performance. Constructors' championship standings are analyzed to identify historical trends, aiding teams in partnerships and strategic planning. Overall, the analysis aims to empower Formula 1 stakeholders with valuable insights for informed decisions and to enhance the sport's competitiveness and appeal.
